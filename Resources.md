@@ -1,12 +1,11 @@
 # Resources to Learn Poincaré Normal Form of Riemann Matrices
 
 ## Complex Analysis
-- **Book**: [*Complex Analysis* by Elias M. Stein and Rami Shakarchi](https://www.amazon.com/Complex-Analysis-Elias-M-Stein/dp/0691113858)
-- **Course**: [MIT OpenCourseWare - Complex Variables with Applications](https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/)
-- **Video Tutorial**: [Complex Analysis - Mathematics for Physicists by Dr. Tadashi Tokieda (YouTube)](https://www.youtube.com/results?search_query=complex+analysis+mathematics+for+physicists)
+- **PDF**: [updated soon](xyz.pdf)
+- **Video Tutorial**: [Complex Analysis - Physics Guidance by Surajit Paul (YouTube)](https://www.youtube.com/playlist?list=PLCI-Fq3C12YFSWu_aOBa_oV52dp0F-5LY)
 
 ## Linear Algebra
-- **Book**: [*Linear Algebra Done Right* by Sheldon Axler](https://www.springer.com/gp/book/9783319110790)
+- **PDF**: [updated soon](xyz.pdf)
 - **Course**: [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - **Video Tutorial**: [3Blue1Brown - Essence of Linear Algebra (YouTube)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9KFSd5qT8p1wCdb5UrL)
 
