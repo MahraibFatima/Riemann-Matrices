@@ -1,7 +1,7 @@
 # Prerequisites for Poincaré Normal Form of Riemann Matrices
 
 ## Complex Analysis
-- [x] [Holomorphic and Meromorphic Functions: Understanding of analytic functions and their singularities.](Complex-Analysis)
+- [x] [Holomorphic and Meromorphic Functions: Understanding of analytic functions and their singularities.](Complex-Analysis/Holomorphic_vs_Meromorphic.md)
 - [ ] Riemann Surfaces: Basic theory, covering compact Riemann surfaces, genus, and topology.
 - [ ] Abelian Differentials: Knowledge of holomorphic and meromorphic differentials on Riemann surfaces.
 - [ ] The Period Matrix: Construction and interpretation of the period matrix of a Riemann surface.
